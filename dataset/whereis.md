@@ -1,0 +1,1 @@
+# i accidently deleted the dataset lol. you can find the dataset i used in roneneldan/TinyStories in hugging face. then you must make a code to convert it into a jsonl file sorry.
